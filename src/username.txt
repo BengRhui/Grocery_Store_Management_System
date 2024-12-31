@@ -1,0 +1,3 @@
+admin                    admin1                   Admin               
+inventory                inventory1               Inventory_checker   
+purchase                 1234                     Purchaser           
