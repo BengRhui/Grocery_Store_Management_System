@@ -23,6 +23,6 @@ The system utilizes arrays to initialise and store data internally, with standar
 *   **Multi-Parameter Querying:** Search functionality allowing lookups by exact description, category, code range, and price range.
 
 ## Prerequisites for Execution
-*   Python 3.x environment
+*   Python 3 environment
 *   Ensure that both `inventory.txt` and `username.txt` are located in the same root directory as the Python script.
 
